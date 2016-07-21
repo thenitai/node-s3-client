@@ -631,3 +631,8 @@ client.s3.headObject({
 
 Tests upload and download large amounts of data to and from S3. The test
 timeout is set to 40 seconds because Internet connectivity waries wildly.
+
+## Changelog
+
+All changes can be found in the changelog at https://github.com/thenitai/node-s3-client/blob/master/CHANGELOG.md
+
