@@ -1,5 +1,9 @@
 ### 4.4.0
 
+ * Update AWS-SDK to 2.4.x
+ 
+### 4.4.0
+
  * Export aws-sdk dependency
  * Update dependencies
  * Ability to handle symlinks in uploadDir and downloadDir
